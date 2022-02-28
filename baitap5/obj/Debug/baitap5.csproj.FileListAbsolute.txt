@@ -1,0 +1,7 @@
+D:\#\J02\baitap5\bin\Debug\baitap5.exe.config
+D:\#\J02\baitap5\bin\Debug\baitap5.exe
+D:\#\J02\baitap5\bin\Debug\baitap5.pdb
+D:\#\J02\baitap5\obj\Debug\baitap5.csproj.AssemblyReference.cache
+D:\#\J02\baitap5\obj\Debug\baitap5.csproj.CoreCompileInputs.cache
+D:\#\J02\baitap5\obj\Debug\baitap5.exe
+D:\#\J02\baitap5\obj\Debug\baitap5.pdb
